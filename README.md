@@ -13,7 +13,7 @@
 
 ### Project Overview 
 
-This data analysis project aims to provide insights into the sales performance of an online retail over the past years. By analyzing various aspects of the online retail  dataset, we seek to identify trends, make data-driven recommendation, and gain a deeper understanding of the company's performance.
+This data analysis project aims to provide insights into the sales performance of an online retail over the past years. By analyzing various aspects of the supermarket dataset, we seek to identify trends, make data-driven recommendation, and gain a deeper understanding of the company's performance.
 
 ### Data Source
 
