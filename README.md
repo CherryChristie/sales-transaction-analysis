@@ -13,7 +13,7 @@
 
 ### Project Overview 
 
-This data analysis project aims to provide insights into the sales performance of an online retail over the past years. By analyzing various aspects of the supermarket dataset, we seek to identify trends, make data-driven recommendation, and gain a deeper understanding of the company's performance.
+This data analysis project aims to provide insights into the sales performance of a supermarket over the past years. By analyzing various aspects of the supermarket dataset, we seek to identify trends, make data-driven recommendation, and gain a deeper understanding of the company's performance.
 
 ### Data Source
 
@@ -29,7 +29,7 @@ In the initial preparation phase, I performed the following tasks:
 - Data loading and inspection
 - Handling missing values.
 - Data cleaning and formatting.
-- Ensured Data Integrity.
+- Ensured Data Consistency.
 
 ## Exploratory Data Analysis
 - EDA involves exploring the datasets to find out and answer key questions such as :
