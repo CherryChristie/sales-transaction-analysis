@@ -8,6 +8,7 @@
 - [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Data Analysis](#data-analysis)
 - [Findings](#findings)
+- [Dashboard](#dashboard)
 - [Recommendations](#recommendations)
 
 
@@ -129,6 +130,9 @@ WHERE row_num <=3;
 
 13. To determine the High Spenders, Medium Spender and  Low Spenders, we used a case stayement to classify that andThe query results show that the majority of customers are categorized as 'High Spenders', indicating that they have spent $1000 or more in total purchases. This indicates a healthy customer base with significant spending. It may reflect successful sales strategies, effective marketing, or a strong product-market fit.
 ![0a3bfff6dfe278f8955c3c2d7f35372](https://github.com/CherryChristie/sales-transaction-analysis/assets/148567375/4f2f4f6f-ff80-4157-ba4d-465e73616998)
+
+## Dashboard
+![7bb09947715b504cbd359da6c5e462c](https://github.com/CherryChristie/supermarket-sales-analysis/assets/148567375/cd67dca8-a2b1-467a-b0a8-c5ab2144f244)
 
 
 ## Recommendations
